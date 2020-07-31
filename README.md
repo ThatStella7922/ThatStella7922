@@ -30,6 +30,24 @@ Now that you're here I might as well plug my socials so here you go:
 [Personal website](https://thatsniceguy.github.io)\
 [Twitter](https://twitter.com/thatsniceguy)
 
+## Daily drivers
+| Device Type | Device Name | Device Specs |
+| ----------- | ----------- | ------------ |
+| Phone       | iPhone XR   | 128GB Red - Jailbroken on iOS 13.5 |
+| Tablet      | iPad Pro 11" 2020 | Wi-Fi 256GB Silver - Jailbroken on iPadOS 13.5 |
+| Smartwatch  | None | RIP my pieced together Series 4 Apple Watch |
+| Headphones  | AirPods Pro | idk they're white? |
+| Desktop PC  | Blossom v1 🌸 | [PC Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#pc-specs) (lol I made a link even though it's right there below this) |
+
+## Other devices (spares and testing)
+| Device Name       | Device Specs | Info |
+| ----------------- | ------------ | ---- |
+| LG V30+ US998     | SD835 / 4GB RAM / 128GB NAND | Running DerpFest 10 |
+| iPhone SE 1st gen | A9 / 2GB RAM / 32GB NAND | iOS 14 testing device |
+| iPhone X          | A11 / 3GB RAM / 64GB NAND | Spare phone just in case |
+| iPhone 6s Plus    | A9 / 2GB RAM / 16GB NAND | iOS 13 testing device |
+| Dell G7 7588      | i7-8750H / 1060 Max-Q / 12GB RAM / 256GB SSD + 512GB SSD | Used to be my main PC but is now just a spare windows + macOS machine |
+
 ## PC Specs
 | Part Type       | Part Name |
 | --------------- | --------- |
@@ -45,7 +63,7 @@ Now that you're here I might as well plug my socials so here you go:
 | Bluetooth       | Provided through Wi-Fi card over USB |
 | Case            | NZXT H500 black
 
-## Setup specs
+## PC Setup Specs
 | Peripheral Type    | Part Name |
 | ------------------ | --------- |
 | Display 1          | Sceptre C24 1080p 144hz 24" monitor |
@@ -56,12 +74,3 @@ Now that you're here I might as well plug my socials so here you go:
 | Pen input          | My iPad Pro + Logitech Crayon |
 | Speakers           | Some old polk audio speakers from 2014 connected with an Insma audio eBay amplifier |
 | Headset/Headphones | Beats Solo3 in wired mode and sometimes my AirPods Pro |
-
-## Daily drivers
-| Device Type | Device Name | Device Specs |
-| ----------- | ----------- | ------------ |
-| Phone       | iPhone XR   | 128GB Red - Jailbroken on iOS 13.5 |
-| Tablet      | iPad Pro 11" 2020 | Wi-Fi 256GB Silver - Jailbroken on iPadOS 13.5 |
-| Smartwatch  | None | RIP my pieced together Series 4 Apple Watch |
-| Headphones  | AirPods Pro | idk they're white? |
-| Desktop PC  | Blossom v1 🌸 | [PC Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#pc-specs) |
