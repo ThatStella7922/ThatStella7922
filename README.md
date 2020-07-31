@@ -42,7 +42,7 @@ Now that you're here I might as well plug my socials so here you go:
 ## Other devices (spares and testing)
 | Device Name       | Device Specs | Info |
 | ----------------- | ------------ | ---- |
-| LG V30+ US998     | SD835 / 4GB RAM / 128GB NAND | Running DerpFest 10 |
+| LG V30+ US998     | SD835 / 4GB RAM / 128GB NAND | Running DerpFest 10, is my only Android device and is used for testing |
 | iPhone SE 1st gen | A9 / 2GB RAM / 32GB NAND | iOS 14 testing device |
 | iPhone X          | A11 / 3GB RAM / 64GB NAND | Spare phone just in case |
 | iPhone 6s Plus    | A9 / 2GB RAM / 16GB NAND | iOS 13 testing device |
