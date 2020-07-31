@@ -64,4 +64,4 @@ Now that you're here I might as well plug my socials so here you go:
 | Tablet      | iPad Pro 11" 2020 | Wi-Fi 256GB Silver - Jailbroken on iPadOS 13.5 |
 | Smartwatch  | None | RIP my pieced together Series 4 Apple Watch |
 | Headphones  | AirPods Pro | idk they're white? |
-| Desktop PC  | Blossom v1 🌸 | [PC Specs]() |
+| Desktop PC  | Blossom v1 🌸 | [PC Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#pc-specs) |
