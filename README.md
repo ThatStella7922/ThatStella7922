@@ -6,7 +6,7 @@ I like to mess with software, hardware and sometimes audio equipment.
 
 Big Apple fan but not a blind "sheep" as I like many other devices and platforms, one good example being my favorite experimentation phone which is an LG V30+ US998 running a somewhat old build of DerpFest 10.
 
-I also have some knowledge of Unix-like systems and will know how to get around on pretty much any OS.
+I also have some knowledge of Unix-like systems and will know how to get around on pretty much any OS (but just don't make me use i3)
 
 Yae Sakura is best waifu imo
 
