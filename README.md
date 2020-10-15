@@ -16,7 +16,7 @@ Mobile OS: idk android and iOS are both bad in different ways\
 Phone: iPhone 11 Pro\
 Tablet: iPad Pro 11" 2020\
 Headphones: AirPods Pro\
-Smartwatch: Apple Watch Series 5\
+Smartwatch: none really appeal to me anymore
 
 ## Hobbies
 - Playing Arcaea, osu!, or some similar game
@@ -27,8 +27,12 @@ Smartwatch: Apple Watch Series 5\
 ## Socials
 Now that you're here I might as well plug my socials so here you go:
 
-[Personal website](https://thatsniceguy.github.io)\
-[Twitter](https://twitter.com/thatsniceguy)
+Discord - `✿ Weeb ThatsNiceGuy#7991`\
+[Twitter](https://twitter.com/thatsniceguy) - `@ThatsNiceGuy`
+
+## Contact
+The preferred way of contacting me is through my Twitter account, either a DM or just tweeting at me.
+Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you really want to.
 
 ## Daily drivers
 | Device Type | Device Name | Device Specs |
@@ -46,6 +50,8 @@ Now that you're here I might as well plug my socials so here you go:
 | iPhone SE 1st gen | A9 / 2GB RAM / 32GB NAND | iOS 14 testing device |
 | iPhone X          | A11 / 3GB RAM / 64GB NAND | Spare phone just in case |
 | iPhone 6s Plus    | A9 / 2GB RAM / 16GB NAND | iOS 13 testing device |
+| iPhone 5          | A6 / 1GB RAM / 32GB NAND | idk I just have it |
+| iPhone 3G         | 1176JZ(F)-S / 128MB RAM / 8GB NAND | again idk, I just have it |
 | Dell G7 7588      | i7-8750H / 1060 Max-Q / 12GB RAM / 256GB SSD + 512GB SSD | Used to be my main PC but is now just a spare windows + macOS machine |
 
 ## PC Specs
@@ -54,11 +60,14 @@ Now that you're here I might as well plug my socials so here you go:
 | System Name     | Blossom v1 🌸 |
 | Motherboard     | ASUS ROG STRIX B550-F GAMING |
 | CPU             | AMD Ryzen 5 3600 @ 3.8 GHz stock voltage |
+| CPU Cooler      | Noctua NH-U12S chromax.black |
 | GPU             | AMD Radeon RX Vega 56 (VBIOS flashed to v64)|
+| GPU Cooler      | RAIJINTEK Morpheus 2 Core edition |
 | RAM             | 2x8 GB Crucial Ballistix DDR4 2400 MHz |
 | SSD 1 (Windows) | Intel 320 series 160GB |
 | SSD 2 (macOS)   | Samsung 960 EVO 512GB |
 | HDD 1 (Misc)    | Some random 700 GB Hitachi thing |
+| HDD 2 (Testing) | Some random 500 GB seagate thing |
 | Wi-Fi card      | Apple AirPort Broadcom BCM943602CS |
 | Bluetooth       | Provided through Wi-Fi card over USB |
 | Case            | NZXT H500 black
@@ -66,11 +75,12 @@ Now that you're here I might as well plug my socials so here you go:
 ## PC Setup Specs
 | Peripheral Type    | Part Name |
 | ------------------ | --------- |
-| Display 1          | Sceptre C24 1080p 144hz 24" monitor |
-| Display 2          | Acer AL2002W 1050p 60hz 20" monitor |
+| Display 1          | LG 27GN950 4K 144hz 27" |
+| Display 2          | Sceptre C24 1080p 144hz 24" |
 | Keyboard           | Razer Ornata Chroma |
-| Mouse              | Razer Deathadder Elite |
+| Mouse              | Logitech G502 Hero |
+| Trackpad           | Apple Magic Trackpad 2 |
 | Mousepad           | Razer Sphex V2
 | Pen input          | My iPad Pro + Logitech Crayon |
 | Speakers           | Some old polk audio speakers from 2014 connected with an Insma audio eBay amplifier |
-| Headset/Headphones | Beats Solo3 in wired mode and sometimes my AirPods Pro |
+| Headset/Headphones | Beats EP in wired mode and sometimes my AirPods Pro |
