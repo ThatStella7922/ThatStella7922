@@ -84,3 +84,7 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 | Pen input          | My iPad Pro + Logitech Crayon |
 | Speakers           | Some old polk audio speakers from 2014 connected with an Insma audio eBay amplifier |
 | Headset/Headphones | Beats EP in wired mode and sometimes my AirPods Pro |
+
+## Feedback
+Got feedback about this page?\
+[Contact me](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#contact), preferably on Twitter as I will reply there faster 
