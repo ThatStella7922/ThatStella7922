@@ -37,8 +37,8 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 ## Daily drivers
 | Device Type | Device Name | Device Specs |
 | ----------- | ----------- | ------------ |
-| Phone       | iPhone XR   | 128GB Red - Jailbroken on iOS 13.5 |
-| Tablet      | iPad Pro 11" 2020 | Wi-Fi 256GB Silver - Jailbroken on iPadOS 13.5 |
+| Phone       | iPhone X    | 64GB White - Stock iOS 14.2 |
+| Tablet      | iPad Pro 11" 2020 | Wi-Fi 256GB Silver - Stock iOS 14.1 |
 | Smartwatch  | None | RIP my pieced together Series 4 Apple Watch |
 | Headphones  | AirPods Pro | idk they're white? |
 | Desktop PC  | Blossom v1 🌸 | [PC Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#pc-specs) (lol I made a link even though it's right there below this) |
@@ -52,7 +52,7 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 | iPhone 6s Plus    | A9 / 2GB RAM / 16GB NAND | iOS 13 testing device |
 | iPhone 5          | A6 / 1GB RAM / 32GB NAND | idk I just have it |
 | iPhone 3G         | 1176JZ(F)-S / 128MB RAM / 8GB NAND | again idk, I just have it |
-| Dell G7 7588      | i7-8750H / 1060 Max-Q / 12GB RAM / 256GB SSD + 512GB SSD | Used to be my main PC but is now just a spare windows + macOS machine |
+| Dell G7 7588      | i7-8750H / 1060 Max-Q / 16GB RAM / 256GB SSD + 512GB SSD | Used to be my main PC but is now just a spare windows + macOS machine |
 
 ## PC Specs
 | Part Type       | Part Name |
@@ -61,10 +61,10 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 | Motherboard     | ASUS ROG STRIX B550-F GAMING |
 | CPU             | AMD Ryzen 5 3600 @ 3.8 GHz stock voltage |
 | CPU Cooler      | Noctua NH-U12S chromax.black |
-| GPU             | AMD Radeon RX Vega 56 (VBIOS flashed to v64)|
+| GPU             | NVIDIA GeForce GTX 1070 |
 | GPU Cooler      | RAIJINTEK Morpheus 2 Core edition |
 | RAM             | 2x8 GB Crucial Ballistix DDR4 2400 MHz |
-| SSD 1 (Windows) | Intel 320 series 160GB |
+| SSD 1 (Windows) | Sabrent Rocket 2TB |
 | SSD 2 (macOS)   | Samsung 960 EVO 512GB |
 | HDD 1 (Misc)    | Some random 700 GB Hitachi thing |
 | HDD 2 (Testing) | Some random 500 GB seagate thing |
