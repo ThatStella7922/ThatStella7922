@@ -62,7 +62,7 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 | CPU             | AMD Ryzen 5 3600 @ 3.8 GHz stock voltage |
 | CPU Cooler      | Noctua NH-U12S chromax.black |
 | GPU             | NVIDIA GeForce GTX 1070 |
-| GPU Cooler      | RAIJINTEK Morpheus 2 Core edition |
+| GPU Cooler      | Stock EVGA ACX 3.0 |
 | RAM             | 2x8 GB Crucial Ballistix DDR4 2400 MHz |
 | SSD 1 (Windows) | Sabrent Rocket 2TB |
 | SSD 2 (macOS)   | Samsung 960 EVO 512GB |
