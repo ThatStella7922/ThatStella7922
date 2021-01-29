@@ -22,6 +22,7 @@ Smartwatch: idk i kinda want a Series 6/4
 
 ## Hobbies
 - Playing Arcaea, osu!, or some similar game
+- Messing with hardware
 - Chatting on Discord and playing Minecraft with the boys
 - Creating bad content on YouTube
 - Writing this README file
