@@ -81,7 +81,7 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 | Display 2 (Secondary) | Sceptre C24 1080p 144hz 24" |
 | Display 3 (Tertiary) | Acer AL2002W 1050p 60hz 24" |
 | Keyboard           | Razer Blackwidow Tournament Edition V2 TKL |
-| Mouse              | Logitech G502 Hero |
+| Mouse              | Razer Deathadder Elite |
 | Trackpad           | Apple Magic Trackpad 2 |
 | Mousepad           | Razer Sphex V2
 | Pen input          | My iPad Pro + Logitech Crayon |
@@ -90,4 +90,4 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 
 ## Feedback
 Got feedback about this page?\
-[Contact me](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#contact), preferably on Twitter as I will reply there faster 
+[Contact me](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#contact), preferably on Twitter as I will reply there faster. You can also DM me on Discord, I'm in a few big public servers like the Linus Tech Tips server, the Honkai Impact and Genshin servers, the r/Hackintosh Paradise server, many RTX 3080 stock checker discord servers, and a few more.
