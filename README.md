@@ -8,15 +8,17 @@ Big Apple fan but not a blind "sheep" as I like many other devices and platforms
 
 I also have some knowledge of Unix-like systems and will know how to get around on pretty much any OS (but just don't make me use i3)
 
+### help i am going insane trying to find an RTX 3080 at MSRP
+
 Yae Sakura is best waifu imo
 
 ## Favorite things
 OS: macOS\
 Mobile OS: idk android and iOS are both bad in different ways\
-Phone: iPhone 11 Pro\
+Phone: Will have to be the OnePlus 8 Pro or Pixel 4 XL\
 Tablet: iPad Pro 11" 2020\
 Headphones: AirPods Pro\
-Smartwatch: none really appeal to me anymore
+Smartwatch: idk i kinda want a Series 6/4
 
 ## Hobbies
 - Playing Arcaea, osu!, or some similar game
@@ -48,7 +50,7 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 | ----------------- | ------------ | ---- |
 | LG V30+ US998     | SD835 / 4GB RAM / 128GB NAND | Running DerpFest 10, is my only Android device and is used for testing |
 | iPhone SE 1st gen | A9 / 2GB RAM / 32GB NAND | iOS 14 testing device |
-| iPhone X          | A11 / 3GB RAM / 64GB NAND | Spare phone just in case |
+| iPhone X          | A11 / 3GB RAM / 256GB NAND | Spare and recording phone just in case |
 | iPhone 6s Plus    | A9 / 2GB RAM / 16GB NAND | iOS 13 testing device |
 | iPhone 5          | A6 / 1GB RAM / 32GB NAND | idk I just have it |
 | iPhone 3G         | 1176JZ(F)-S / 128MB RAM / 8GB NAND | again idk, I just have it |
@@ -66,8 +68,7 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 | RAM             | 2x8 GB Crucial Ballistix DDR4 2400 MHz |
 | SSD 1 (Windows) | Sabrent Rocket 2TB |
 | SSD 2 (macOS)   | Samsung 960 EVO 512GB |
-| HDD 1 (Misc)    | Some random 700 GB Hitachi thing |
-| HDD 2 (Testing) | Some random 500 GB seagate thing |
+| Hard drive      | No hard drives in my PC |
 | Wi-Fi card      | Apple AirPort Broadcom BCM943602CS |
 | Bluetooth       | Provided through Wi-Fi card over USB |
 | Case            | NZXT H500 black
@@ -75,9 +76,10 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 ## PC Setup Specs
 | Peripheral Type    | Part Name |
 | ------------------ | --------- |
-| Display 1          | LG 27GN950 4K 144hz 27" |
-| Display 2          | Sceptre C24 1080p 144hz 24" |
-| Keyboard           | Razer Ornata Chroma |
+| Display 1 (Primary)| LG 27GN950 4K 144hz 27" |
+| Display 2 (Secondary) | Sceptre C24 1080p 144hz 24" |
+| Display 3 (Tertiary) | Acer AL2002W 1050p 60hz 24" |
+| Keyboard           | Razer Blackwidow Tournament Edition V2 TKL |
 | Mouse              | Logitech G502 Hero |
 | Trackpad           | Apple Magic Trackpad 2 |
 | Mousepad           | Razer Sphex V2
