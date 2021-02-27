@@ -8,8 +8,6 @@ Big Apple fan but not a blind "sheep" as I like many other devices and platforms
 
 I also have some knowledge of Unix-like systems and will know how to get around on pretty much any OS (but just don't make me use i3)
 
-### help i am going insane trying to find an RTX 3080 at MSRP
-
 Yae Sakura is best waifu imo
 
 ## Favorite things
@@ -62,11 +60,11 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 | --------------- | --------- |
 | System Name     | Blossom v1 🌸 |
 | Motherboard     | ASUS ROG STRIX B550-F GAMING |
-| CPU             | AMD Ryzen 5 3600 @ 3.8 GHz stock voltage |
+| CPU             | AMD Ryzen 5 3600 @ 3.9GHz |
 | CPU Cooler      | Noctua NH-U12S chromax.black |
-| GPU             | NVIDIA GeForce GTX 1070 |
-| GPU Cooler      | Stock EVGA ACX 3.0 |
-| RAM             | 2x8 GB Crucial Ballistix DDR4 2400 MHz |
+| GPU             | Asus ROG Strix GeForce RTX 3080 |
+| GPU Cooler      | Stock Strix 30series cooler |
+| RAM             | 32GB (4x8GB) 3600MHz C18 Corsair Vengeance RGB Pro SL |
 | SSD 1 (Windows) | Sabrent Rocket 2TB |
 | SSD 2 (macOS)   | Samsung 960 EVO 512GB |
 | Hard drive      | No hard drives in my PC |
@@ -77,7 +75,7 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 ## PC Setup Specs
 | Peripheral Type    | Part Name |
 | ------------------ | --------- |
-| Display 1 (Primary)| LG 27GN950 4K 144hz 27" |
+| Display 1 (Primary)| LG 27GN950 4K 144hz OC to 160hz 27" |
 | Display 2 (Secondary) | Sceptre C24 1080p 144hz 24" |
 | Display 3 (Tertiary) | Acer AL2002W 1050p 60hz 24" |
 | Keyboard           | Razer Blackwidow Tournament Edition V2 TKL |
