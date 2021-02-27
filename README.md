@@ -38,8 +38,8 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 ## Daily drivers
 | Device Type | Device Name | Device Specs |
 | ----------- | ----------- | ------------ |
-| Phone       | iPhone X    | 64GB White - Stock iOS 14.2 |
-| Tablet      | iPad Pro 11" 2020 | Wi-Fi 256GB Silver - Stock iOS 14.1 |
+| Phone       | iPhone X    | 64GB White - Stock iOS 14.3RC1 |
+| Tablet      | iPad Pro 11" 2020 | Wi-Fi 256GB Silver - Stock iOS 14.3RC1 |
 | Smartwatch  | None | RIP my pieced together Series 4 Apple Watch |
 | Headphones  | AirPods Pro | idk they're white? |
 | Desktop PC  | Blossom v1 🌸 | [PC Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#pc-specs) (lol I made a link even though it's right there below this) |
