@@ -38,11 +38,11 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 ## Daily drivers
 | Device Type | Device Name | Device Specs |
 | ----------- | ----------- | ------------ |
-| Phone       | iPhone X    | 64GB White - Stock iOS 14.3RC1 |
-| Tablet      | iPad Pro 11" 2020 | Wi-Fi 256GB Silver - Stock iOS 14.3RC1 |
+| Phone       | iPhone X    | 64GB White - iOS 14.3RC1 jailbroken with [Taurine](https://taurine.app) |
+| Tablet      | iPad Pro 11" 2020 | Wi-Fi 256GB Silver - iOS 14.3RC1 jailbroken with [Taurine](https://taurine.app) |
 | Smartwatch  | None | RIP my pieced together Series 4 Apple Watch |
 | Headphones  | AirPods Pro | idk they're white? |
-| Desktop PC  | Blossom v1 🌸 | [PC Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#pc-specs) (lol I made a link even though it's right there below this) |
+| Desktop PC  | Sakura Blossom | [PC Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#pc-specs) (lol I made a link even though it's right there below this) |
 
 ## Other devices (spares and testing)
 | Device Name       | Device Specs | Info |
@@ -58,34 +58,34 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 ## PC Specs
 | Part Type       | Part Name |
 | --------------- | --------- |
-| System Name     | Blossom v1 🌸 |
+| System Name     | Sakura Blossom |
 | Motherboard     | ASUS ROG STRIX B550-F GAMING |
 | CPU             | AMD Ryzen 5 3600 @ 3.9GHz |
 | CPU Cooler      | Noctua NH-U12S chromax.black |
-| GPU             | Asus ROG Strix GeForce RTX 3080 |
+| GPU             | Asus ROG Strix GeForce RTX 3080 OC 10GB |
 | GPU Cooler      | Stock Strix 30series cooler |
 | RAM             | 32GB (4x8GB) 3600MHz C18 Corsair Vengeance RGB Pro SL |
-| SSD 1 (Windows) | Sabrent Rocket 2TB |
-| SSD 2 (macOS)   | Samsung 960 EVO 512GB |
-| Hard drive      | No hard drives in my PC |
+| SSD 1 (Windows) | Sabrent Rocket 2TB NVMe|
+| SSD 2 (macOS)   | Samsung 960 EVO 512GB NVMe |
+| Hard drive      | None :) |
 | Wi-Fi card      | Apple AirPort Broadcom BCM943602CS |
 | Bluetooth       | Provided through Wi-Fi card over USB |
-| Case            | NZXT H500 black
+| Case            | NZXT H500 - black |
 
 ## PC Setup Specs
 | Peripheral Type    | Part Name |
 | ------------------ | --------- |
-| Display 1 (Primary)| LG 27GN950 4K 144hz OC to 160hz 27" |
-| Display 2 (Secondary) | Sceptre C24 1080p 144hz 24" |
-| Display 3 (Tertiary) | Acer AL2002W 1050p 60hz 24" |
-| Keyboard           | Razer Blackwidow Tournament Edition V2 TKL |
+| Display 1 (Primary)| LG 27GN950 4K 27" 144hz OC to 160hz |
+| Display 2 (Secondary) | Sceptre C24 1080p 24" 144hz |
+| Display 3 (Tertiary) | Acer AL2002W 1050p 24" 60hz |
+| Keyboard           | Razer Blackwidow Tournament Edition V2 |
 | Mouse              | Razer Deathadder Elite |
 | Trackpad           | Apple Magic Trackpad 2 |
-| Mousepad           | Razer Sphex V2
+| Mousepad           | Razer Sphex V2 |
 | Pen input          | My iPad Pro + Logitech Crayon |
 | Speakers           | Some old polk audio speakers from 2014 connected with an Insma audio eBay amplifier |
 | Headset/Headphones | Beats EP in wired mode and sometimes my AirPods Pro |
 
 ## Feedback
 Got feedback about this page?\
-[Contact me](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#contact), preferably on Twitter as I will reply there faster. You can also DM me on Discord, I'm in a few big public servers like the Linus Tech Tips server, the Honkai Impact and Genshin servers, the r/Hackintosh Paradise server, many RTX 3080 stock checker discord servers, and a few more.
+[Contact me](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#contact), preferably on Twitter as I will reply there faster. You can also DM me on Discord, I'm in a few big public servers like the Linus Tech Tips server, the Honkai Impact and Genshin servers, the r/Hackintosh Paradise server, some RTX 3080 stock checker discord servers, and a few more.
