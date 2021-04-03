@@ -1,6 +1,6 @@
 ## How I made my GTX 770 work in my PC along my RTX 3080 to provide macOS compatibility
 **If you end up doing anything from here, it is at your own risk and responsibility.**\
-I will not be responsible for bad VBIOS flashes, earthquakes, universe imposion, etc.
+I will not be responsible for bad VBIOS flashes, earthquakes, universe implosion, etc.
 
 ## Introduction
 Back on February 4th, I [upgraded my PC](https://github.com/ThatsNiceGuy/ThatsNiceGuy#pc-specs) with a Strix RTX 3080 OC which replaced my previous Vega 56. As you can imagine, this brought about a whole slew of compatibility problems for macOS. The biggest and most devastating one was that the RTX 3080 is not supported in any way in any version of macOS. This means no Web Drivers on High Sierra either. One workaround I used for a while was using macOS with a single monitor in VESA compatibility mode with 1080p resolution thanks to the UEFI GOP, but this was far from ideal. VESA compatibility mode means that there is no acceleration and the CPU must handle rendering tasks. Aside from this making the entire OS feel *extremely* sluggish, it also means that I can't use any macOS apps that use Metal. I had to find another, better solution.
@@ -12,7 +12,7 @@ The GTX 770 was in extremely poor condition with sticky residue all over it and 
 
 It worked fine in there, booted windows fine and ran some games. Since it worked, I decided to buy the extra PCIe power cables that I need for my modular PSU (they cost eight dollars lol) and those arrived within two days.
 
-Now, it was as easy as throwing it in my pain PC and booting macOS, right?
+Now, it was as easy as throwing it in my main PC and booting macOS, right?
 
 Unfortunately, this is where I ran into some major problems.
 
