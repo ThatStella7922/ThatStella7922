@@ -1,4 +1,6 @@
 ## How I made my GTX 770 work in my PC along my RTX 3080 to provide macOS compatibility
+**If you end up doing anything from here, it is at your own risk and responsibility.**\
+I will not be responsible for bad VBIOS flashes, earthquakes, universe imposion, etc.
 
 ## Introduction
 Back on February 4th, I upgraded my PC with a Strix RTX 3080 OC which replaced my previous Vega 56. As you can imagine, this brought about a whole slew of compatibility problems for macOS. The biggest and most devastating one was that the RTX 3080 is not supported in any way in any version of macOS. This means no Web Drivers on High Sierra either. One workaround I used for a while was using macOS with a single monitor in VESA compatibility mode with 1080p resolution thanks to the UEFI GOP, but this was far from ideal. VESA compatibility mode means that there is no acceleration and the CPU must handle rendering tasks. Aside from this making the entire OS feel *extremely* sluggish, it also means that I can't use any macOS apps that use Metal. I had to find another, better solution.
@@ -32,7 +34,9 @@ I decided to RTFM which tought me about the `--list` and `-i` options, and here'
 - `-i`
   - Enables you to choose what GPU to perform an action on
 
-The output of `nvflash --list` on my PC ended up being something like this:
+I also learned about `-6` which disables checks and pretty much allows you to flash any vbios to any card, but I recommend against using it and didn't use it here.
+
+With an  output of `nvflash --list` on my PC ended up being something like this:
 ```
 NVIDIA Firmware Update Utility <Version x.xxx>
 
@@ -41,4 +45,20 @@ NVIDIA display adapters present in system:
 <1> GeForce RTX 3080 (10DE,xxxx,xxxx,xxxx)
 ```
 
-Those numbers (`<0>` or `<1>`) before the GPU names are **index numbers**.
+Those numbers (`<0>` or `<1>`) before the GPU names are **index numbers**. In my case, the GTX 770 was index `0`. I took the VBIOS I downloaded from techpowerup, renamed it to `770.rom` <sup>(I know, not very descriptive but I understand it)</sup> and ran `nvflash`.
+
+Remember that `-i` option from before? The syntax for it is basically this: `-iΣ`, where `Σ` is the index number. For me. since I wanted to flash the GTX 770, I would use `-i0`.
+
+I flashed the VBIOS to the GTX 770 (I ran `nvflash -i0 770.rom`) and it all went well. After `nvflash` told me to restart, I restarted the PC (into Windows again) just to ensure it was working fine, and it was. GPU-Z reported the new vbios version and all was well. I decided to try macOS now since in my mind "its updated so it must work now". Doing the whole procedure with the display cables, it was ready. I pressed the power button...
+
+*...*
+
+*...*
+
+*aaaaaaandd* it refused to post again. After this, I got extremely discouraged. Why wouldn't it work? It was the latest VBIOS I could find for the card! After complaining in the r/hackintosh server, someone told me about `GOP Updater`. After some intense googling (it was more like five minutes), I found [this thread](https://forums.guru3d.com/threads/display-port-gop-updater-guide-fix-blanking-screens-and-improve-monitor-compatibility.421417/) on Guru3D which linked [this thread](https://www.win-raid.com/t892f16-AMD-and-Nvidia-GOP-update-No-requests-DIY.html) on Win-Raid. I read the posts and started to get a general idea of how it works. 
+
+Basically <sup>(More like extremely simplified, read first two posts on that Win-Raid thread for more detail)</sup>, this utility allows you to take a VBIOS, update the UEFI GOP inside of it, and save a modified/patched VBIOS.
+
+**This is the part where I say that if you do this, it is at your own risk and responsibility**.
+
+After downloading the utility, I looked at some of the batch files inside of it and found out that it requires Python 3.7 installed to `C:\Python37` and the `colourama` pip module installed from inside `C:\Python37\Scripts`. After getting those installed
