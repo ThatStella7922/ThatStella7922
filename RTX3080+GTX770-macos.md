@@ -23,12 +23,14 @@ Booting up Windows, everything surprisingly worked, including G-Sync on my main 
 
 *aaaaaaandd* my motherboard failed to POST...
 
-## VBIOS, UEFI GOP, Flashing
+## Troubleshooting
 After checking the beep code from the little piezo I attatched to my motherboard (and looking at the BIOS debug LEDs), it was a GPU firmware initialization issue. I thought that this wouldn't be a problem as all GTX 770s shipped with a UEFI-capable "hybrid" driver, but something was obviously off. As a troubleshooting measure, I would try plugging my tertiary display into the 3080 and leaving the other two in the 770. The motherboard POSTed and output to the monitor on the 3080 so I spammed F8 for boot menu. Choosing OpenCore, then choosing my Catalina partition, it started to boot, showing verbose on the monitor I had connected to the 3080. It was booting, booting, booting, then I saw WindowServer initialize and both of the displays I had connected to the GTX 770 woke up and started displaying my login background. A strange thing was that the display connected to the 3080 was still showing a (frozen) verbose screen even after windowserver started.
 
 The issue though, was that I couldn't actually see the login screen, or *any* UI element except for the mouse. I only had a mouse I could move around. After talking with people, it was determined that macOS was treating the display connected to the 3080 as the primary monitor, which is an issue as its still frozen showing the verbose screen!
 
 I rebooted a couple times thinking it would fix itself, but no dice. After trying for a while, I just shut down the PC, plugged all my displays into the 3080 again, powered on, and it succesfully POSTed and I chose to boot to Windows. From here, I decided that updating the VBIOS on the 770 would be my best course of action as maybe it was made more compatible or something. 
+
+## VBIOS and Flashing
 
 Next I downloded the latest x86_64 `nvflash` and [the latest VBIOS I could find for this card](https://www.techpowerup.com/vgabios/160720/msi-gtx770-2048-140530). Since I had two GPUs working in the system at the same time, I wasn't sure if `nvflash` would attempt to flash both cards, or randomly choose one of the two or something. 
 
@@ -59,11 +61,14 @@ I flashed the VBIOS to the GTX 770 (I ran `nvflash -i0 770.rom`) and it all went
 
 *...*
 
-*aaaaaaandd* it refused to post again. After this, I got extremely discouraged. Why wouldn't it work? It was the latest VBIOS I could find for the card! After complaining in the r/hackintosh server, someone told me about `GOP Updater`. After some intense googling (it was more like five minutes), I found [this thread](https://forums.guru3d.com/threads/display-port-gop-updater-guide-fix-blanking-screens-and-improve-monitor-compatibility.421417/) on Guru3D which linked [this thread](https://www.win-raid.com/t892f16-AMD-and-Nvidia-GOP-update-No-requests-DIY.html) on Win-Raid. I read the posts and started to get a general idea of how it works. 
+*aaaaaaandd* it refused to post again. After this, I got extremely discouraged. Why wouldn't it work? It was the latest VBIOS I could find for the card! 
+
+## UEFI GOP
+After complaining in the r/hackintosh server, someone told me about `GOP Updater`. After some intense googling (it was more like five minutes), I found [this thread](https://forums.guru3d.com/threads/display-port-gop-updater-guide-fix-blanking-screens-and-improve-monitor-compatibility.421417/) on Guru3D which linked [this thread](https://www.win-raid.com/t892f16-AMD-and-Nvidia-GOP-update-No-requests-DIY.html) on Win-Raid. I read the posts and started to get a general idea of how it works. 
 
 Basically <sup>(More like extremely simplified, read first two posts on that Win-Raid thread for more detail)</sup>, this utility allows you to take a VBIOS, update the UEFI GOP inside of it, and save a modified/patched VBIOS.
 
-**This is the part where I say that if you do this, it is at your own risk and responsibility**.
+**This is the part where I say that if you do this, it is at your own risk and responsibility.**
 
 After downloading the utility and extracting it into a folder on my desktop called `gopupdate`, I looked at some of the batch files inside of it and found out that it requires Python 3.7 installed to `C:\Python37` and the `colourama` pip module installed from inside `C:\Python37\Scripts`. After getting those installed, I copied my `770.rom` vbios from before into the `gopupdate` folder for easy use. To update the GOP in it, I simply dragged the `770.rom` file onto the `GOPUpd.bat` batch file. If you did everthing correctly, it should show you the previous gop version and ask you if you want to update. Say yes, it'll do its thing and show you the updated version. Finish so the utility closes, and you should have a new file in the folder. For me it was named along the lines of `770-gopupdate.rom`. I could now take that VBIOS file and flash it onto my 770. (I ran `nvflash -i0 770-gopupdate.rom`). When it said it was done and asked me to reboot, I rebooted the PC but again into Windows to double check the new GOP updated VBIOS flashed correctly. After checking GPU-Z, the 770 was detected fine with the same version number VBIOS (but the GOP was still a newer version inside) so now I decided to shut down the PC for the moment of truth.
 
@@ -85,4 +90,5 @@ The GTX 770 fully working in macOS, driving all my displays and accelerating ren
 ### Finally finished.
 ![Finally done](RTX3080+GTX770-macos/finallyfinished.jpg)
 
-If you have questions or comments, [contact me](https://github.com/ThatsNiceGuy/ThatsNiceGuy#contact).
+If you have questions or comments, you can [contact me](https://github.com/ThatsNiceGuy/ThatsNiceGuy#contact)./
+If enough people ask, I may make a dedicated instruction guide for this process. 
