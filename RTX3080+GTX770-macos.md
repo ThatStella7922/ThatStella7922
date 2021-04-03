@@ -90,5 +90,5 @@ The GTX 770 fully working in macOS, driving all my displays and accelerating ren
 ### Finally finished.
 ![Finally done](RTX3080+GTX770-macos/finallyfinished.jpg)
 
-If you have questions or comments, you can [contact me](https://github.com/ThatsNiceGuy/ThatsNiceGuy#contact)./
+If you have questions or comments, you can [contact me](https://github.com/ThatsNiceGuy/ThatsNiceGuy#contact).\
 If enough people ask, I may make a dedicated instruction guide for this process. 
