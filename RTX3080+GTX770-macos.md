@@ -1,4 +1,6 @@
 ## How I made my GTX 770 work in my PC along my RTX 3080 to provide macOS compatibility
+### Contains downloads of the final files at the bottom
+
 **If you end up doing anything from here, it is at your own risk and responsibility.**\
 I will not be responsible for bad VBIOS flashes, earthquakes, universe implosion, etc.
 
@@ -6,7 +8,7 @@ I will not be responsible for bad VBIOS flashes, earthquakes, universe implosion
 Back on February 4th, I [upgraded my PC](https://github.com/ThatsNiceGuy/ThatsNiceGuy#pc-specs) with a Strix RTX 3080 OC which replaced my previous Vega 56. As you can imagine, this brought about a whole slew of compatibility problems for macOS. The biggest and most devastating one was that the RTX 3080 is not supported in any way in any version of macOS. This means no Web Drivers on High Sierra either. One workaround I used for a while was using macOS with a single monitor in VESA compatibility mode with 1080p resolution thanks to the UEFI GOP, but this was far from ideal. VESA compatibility mode means that there is no acceleration and the CPU must handle rendering tasks. Aside from this making the entire OS feel *extremely* sluggish, it also means that I can't use any macOS apps that use Metal. I had to find another, better solution.
 
 ## Kepler and macOS
-As I use macOS quite a bit on my PC, I wanted to have full resolution, multimonitor and acceleration in macOS. I started digging around my house and project workspace and managed to find an [MSI Twin Frozr GTX 770 GAMING 2GB](https://www.msi.com/Graphics-Card/N770-TF-2GD5OC/Specification). This was great news as Kepler GPUs are natively supported in macOS since Mac OS X 10.8 Mountain Lion. These Kepler GPUs are still supported in the latest macOS Big Sur in order to support older Macs that still use this GPU architecture, which is convenient for us hackintoshers.
+As I use macOS quite a bit on my PC, I wanted to have full resolution, multimonitor and acceleration in macOS. I started digging around my house and project workspace and managed to find an [MSI Twin Frozr GTX 770 GAMING 2GB OC](https://www.msi.com/Graphics-Card/N770-TF-2GD5OC/Specification). This was great news as Kepler GPUs are natively supported in macOS since Mac OS X 10.8 Mountain Lion. These Kepler GPUs are still supported in the latest macOS Big Sur in order to support older Macs that still use this GPU architecture, which is convenient for us hackintoshers.
 
 The GTX 770 was in extremely poor condition with sticky residue all over it and it was missing its shroud and fans. I decided to clean it up, give it some care since it was going to be in my main PC. I gave all of it a thourough wash, let it sit overnight, then tested it in my test bench.
 
@@ -92,3 +94,13 @@ The GTX 770 fully working in macOS, driving all my displays and accelerating ren
 
 If you have questions or comments, you can [contact me](https://github.com/ThatsNiceGuy/ThatsNiceGuy#contact).\
 If enough people ask, I may make a dedicated instruction guide for this process. 
+
+### Downloads
+**No warranty is provided with these downloads, use of them in any way is at your own risk and responsibility. I am not responsible for bricked cards.**\
+**MAKE SURE YOU HAVE THE SAME CARD!! [(MSI Twin Frozr GTX 770 GAMING OC 2GB)](https://www.msi.com/Graphics-Card/N770-TF-2GD5OC/Specification) THIS IS NOT OPTIONAL**
+
+VBIOS 80.04.EB.00.4C with updated GOP (version 0x10038) - [Download](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/RTX3080%2BGTX770-macos/770newgop.rom)\
+This is the one that worked for me
+
+Original VBIOS 80.04.EB.00.4C with GOP version 0x1002D - [Download](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/RTX3080%2BGTX770-macos/originalvbios.rom)\
+This is the original one that didn't work
