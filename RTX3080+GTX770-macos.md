@@ -99,6 +99,8 @@ If enough people ask, I may make a dedicated instruction guide for this process.
 **No warranty is provided with these downloads, use of them in any way is at your own risk and responsibility. I am not responsible for bricked cards.**\
 **MAKE SURE YOU HAVE THE SAME CARD!! [(MSI Twin Frozr GTX 770 GAMING OC 2GB)](https://www.msi.com/Graphics-Card/N770-TF-2GD5OC/Specification) THIS IS NOT OPTIONAL**
 
+These require `nvflash` to use. If you don't know how to use `nvflash`, read the [VBIOS and Flashing](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/RTX3080%2BGTX770-macos.md#vbios-and-flashing) section, or a proper `nvflash` guide.
+
 VBIOS 80.04.EB.00.4C with updated GOP (version 0x10038) - [Download](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/RTX3080%2BGTX770-macos/770newgop.rom)\
 This is the one that worked for me
 
