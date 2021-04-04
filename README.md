@@ -64,6 +64,8 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 | CPU Cooler      | Noctua NH-U12S chromax.black |
 | GPU             | Asus ROG Strix GeForce RTX 3080 OC 10GB |
 | GPU Cooler      | Stock Strix 30series cooler |
+| GPU 2           | MSI Twin Frozr GTX 770 GAMING 2GB OC |
+| GPU 2 Cooler    | one 120mm fan ziptied to the 770 heatsink
 | RAM             | 32GB (4x8GB) 3600MHz C18 Corsair Vengeance RGB Pro SL |
 | SSD 1 (Windows) | Sabrent Rocket 2TB NVMe|
 | SSD 2 (macOS)   | Samsung 960 EVO 512GB NVMe |
