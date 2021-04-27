@@ -1,4 +1,7 @@
 # Hi there 👋
+
+Note: [Click here](https://github.com/ThatsNiceGuy/ThatsNiceGuy/releases) to see some stuff I release (or reupload) but am too lazy to put elsewhere.
+
 ## Intro
 My name is Ismael and on the Internet I like to go by ThatsNiceGuy.
 
