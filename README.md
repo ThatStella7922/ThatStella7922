@@ -48,7 +48,7 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 | Smartwatch  | None | RIP my pieced together Series 4 Apple Watch |
 | Headphones  | AirPods Pro | idk they're white? |
 | Desktop PC  | Sakura Blossom | [PC Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#pc-specs) (lol I made a link even though it's right there below this) |
-| Laptop PC   | HP EliteBook 850 G1 | [Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#laptop-specs) |
+| Laptop PC   | A1990 MacBook Pro 15" 2018  | [Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#laptop-specs) |
 
 ## Other devices (spares and testing)
 | Device Name       | Device Specs | Info |
@@ -71,7 +71,7 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 | GPU             | Asus ROG Strix GeForce RTX 3080 OC 10GB |
 | GPU Cooler      | Stock Strix 30series cooler |
 | GPU 2           | MSI Twin Frozr GTX 770 GAMING 2GB OC |
-| GPU 2 Cooler    | one fan ziptied to the 770 heatsink
+| GPU 2 Cooler    | No fan - passive heatsink only |
 | RAM             | 32GB (4x8GB) 3600MHz C18 Corsair Vengeance RGB Pro SL |
 | SSD 1 (Windows) | Sabrent Rocket 2TB NVMe |
 | SSD 2 (macOS)   | Samsung 960 EVO 512GB NVMe |
@@ -83,9 +83,9 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 ## PC Setup Specs
 | Peripheral Type    | Part Name |
 | ------------------ | --------- |
-| Display 1 (Primary)| LG 27GN950 4K 27" 144hz OC to 160hz |
+| Display 1 (Primary)| LG 27GN950 4K 27" 144hz |
 | Display 2 (Secondary) | Sceptre C24 1080p 24" 144hz |
-| Display 3 (Tertiary) | Acer AL2002W 1050p 24" 60hz |
+| Display 3 (Tertiary) | Currently, none |
 | Keyboard           | Razer Blackwidow Tournament Edition V2 |
 | Mouse              | Razer Deathadder Elite |
 | Trackpad           | Apple Magic Trackpad 2 |
@@ -97,15 +97,15 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 ## Laptop Specs
 | Part Type       | Part Name |
 | --------------- | --------- |
-| System Name     | HP EliteBook 850 G1 |
-| Motherboard     | Hewlett-Packard 198F |
-| CPU             | Intel Core i5-4210U @ 0.8-2.7GHz |
-| iGPU            | Intel HD Graphics 4400
-| RAM             | 4GB (1x4GB) 1600 MHz C?? Samsung |
-| SSD 1 (Windows) | SanDisk Z400s 128GB |
-| Hard drive      | None :) |
-| Wi-Fi card      | Intel(R) Dual Band Wireless-N 7260 |
-| Bluetooth       | Provided through Wi-Fi card over USB |
+| System Name     | A1990 MacBook Pro 15" 2018 |
+| Motherboard     | Apple Proprietary Special™️ |
+| CPU             | Intel Core i7-8850H |
+| iGPU            | Intel UHD Graphics 630 |
+| dGPU            | AMD Radeon Pro 560X 4GB GDDR5 |
+| RAM             | 16GB Dual-channel 2400MHz DDR4 (SK Hynix) |
+| SSD 1 (macOS) | Apple Internal Soldered 512GB PCIe NVMe x4 SSD  |
+| Wi-Fi card      | Apple AirPort (idk chipset yet) |
+| Bluetooth       | idk its there but im not sure how yet |
 
 ## Feedback
 Got feedback about this page?\
