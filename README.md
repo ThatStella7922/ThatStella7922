@@ -2,7 +2,9 @@
 
 Note: [Click here](https://github.com/ThatsNiceGuy/ThatsNiceGuy/releases) to see some stuff I release (or reupload) but am too lazy to put elsewhere.
 
-New project: [make_and_flash_logo](https://github.com/ThatsNiceGuy/make_and_flash_logo)
+## Quick Links
+- [make_and_flash_logo](https://github.com/ThatsNiceGuy/make_and_flash_logo)
+- [Blossom Repo](https://github.com/ThatsNiceGuy/repo)
 
 ## Intro
 My name is Ismael and on the Internet I like to go by ThatsNiceGuy.
