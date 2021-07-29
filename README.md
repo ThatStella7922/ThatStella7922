@@ -52,7 +52,7 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 | Headphones  | AirPods Pro | idk they're white? |
 | Desktop PC  | Sakura Blossom | [PC Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#pc-specs) (lol I made a link even though it's right there below this) |
 | Laptop PC   | Lenowo ThinkPad E590  | [Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#laptop-specs) |
-| Home NAS    | Blossom Vault | 
+| Home NAS    | Blossom Vault | [NAS Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#nas-specs) |
 
 ## Other devices (spares and testing)
 | Device Name       | Device Specs | Info |
