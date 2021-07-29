@@ -11,22 +11,23 @@ My name is Ismael and on the Internet I like to go by ThatsNiceGuy.
 
 I like to mess with software, hardware and sometimes audio equipment.
 
-Big Apple fan but not a blind "sheep" as I like many other devices and platforms, one good example being my favorite experimentation phone which is an LG V30+ US998 running a somewhat old build of DerpFest 10.
+Big Apple fan but not a blind "sheep" as I like many other devices and platforms, one good example being my experimentation phone which is a OnePlus 6T (global variant) that dualboots Pixel Experience (Android 11) and Windows 10 ARM.
 
 I also have some knowledge of Unix-like systems and will know how to get around on pretty much any OS (but just don't make me use i3)
 
-Yae Sakura is best waifu imo
+Yae Sakura is best waifu
 
 ## Favorite things
-OS: macOS\
+OS: both macOS and Windows 11\
 Mobile OS: idk android and iOS are both bad in different ways\
-Phone: Will have to be my daily driver iPhone X or the ROG Phone 5\
+Phone: Will have to be whatever high end iphone comes out this year or the ROG Phone 5\
 Tablet: iPad Pro 11" 2020\
 Headphones: AirPods Pro\
 Smartwatch: idk i kinda want a Series 6/4
 
 ## Hobbies
 - Playing Arcaea, osu!, or some similar game
+- PC gaming
 - Messing with hardware
 - Chatting on Discord
 - Creating bad content on YouTube
@@ -50,15 +51,16 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 | Smartwatch  | None | RIP my pieced together Series 4 Apple Watch |
 | Headphones  | AirPods Pro | idk they're white? |
 | Desktop PC  | Sakura Blossom | [PC Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#pc-specs) (lol I made a link even though it's right there below this) |
-| Laptop PC   | A1990 MacBook Pro 15" 2018  | [Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#laptop-specs) |
+| Laptop PC   | Lenowo ThinkPad E590  | [Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#laptop-specs) |
+| Home NAS    | Blossom Vault | 
 
 ## Other devices (spares and testing)
 | Device Name       | Device Specs | Info |
 | ----------------- | ------------ | ---- |
-| LG V30+ US998     | SD835 / 4GB RAM / 128GB NAND | Running DerpFest 10, is my only Android device and is used for testing |
+| LG V30+ US998     | SD835 / 4GB RAM / 128GB NAND | Running DerpFest 10, is used for testing |
+| OnePlus 6T A6010  | SD845 / 8GB RAM / 128GB NAND | Running Pixel Experience and Windows 10 ARM |
 | iPhone SE 1st gen | A9 / 2GB RAM / 32GB NAND | Spare phone |
 | iPhone X          | A11 / 3GB RAM / 256GB NAND | Recording phone |
-| iPhone 6s Plus    | A9 / 2GB RAM / 16GB NAND | iOS 13 testing device |
 | iPhone 5          | A6 / 1GB RAM / 32GB NAND | idk I just have it |
 | iPhone 3G         | 1176JZ(F)-S / 128MB RAM / 8GB NAND | again idk, I just have it |
 | Dell G7 7588      | i7-8750H / 1060 Max-Q / 8GB RAM / 256GB SSD | For sale - [contact me](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#contact) |
@@ -78,6 +80,7 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 | SSD 1 (Windows) | Sabrent Rocket 2TB NVMe |
 | SSD 2 (macOS)   | Samsung 960 EVO 512GB NVMe |
 | Hard drive      | None :) |
+| Onboard NIC     | Intel I225-V 2.5GbE |
 | Wi-Fi card      | Apple AirPort Broadcom BCM943602CS |
 | Bluetooth       | Provided through Wi-Fi card over USB |
 | Case            | NZXT H500 - black |
@@ -94,20 +97,37 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 | Mousepad           | Razer Sphex V2 |
 | Pen input          | My iPad Pro + Logitech Crayon |
 | Speakers           | Some old polk audio speakers from 2014 connected with an Insma audio eBay amplifier |
-| Headset/Headphones | Beats EP in wired mode and sometimes my AirPods Pro |
+| Headset/Headphones | KZ ZS10 Pro |
 
 ## Laptop Specs
 | Part Type       | Part Name |
 | --------------- | --------- |
-| System Name     | A1990 MacBook Pro 15" 2018 |
-| Motherboard     | Apple Proprietary Special™️ |
-| CPU             | Intel Core i7-8850H |
-| iGPU            | Intel UHD Graphics 630 |
-| dGPU            | AMD Radeon Pro 560X 4GB GDDR5 |
-| RAM             | 16GB Dual-channel 2400MHz DDR4 (SK Hynix) |
-| SSD 1 (macOS) | Apple Internal Soldered 512GB PCIe NVMe x4 SSD  |
-| Wi-Fi card      | Apple AirPort (idk chipset yet) |
-| Bluetooth       | idk its there but im not sure how yet |
+| System Name     | Lenowo (Lenovo) ThinkPad E590 |
+| Motherboard     | ThinkPad E590 Motherboard |
+| CPU             | Intel Core i5-8265U |
+| iGPU            | Intel UHD Graphics 620 |
+| dGPU            | None |
+| RAM             | 16GB Dual-channel 2400MHz DDR4 (Samsung) |
+| SSD 1 (Windows) | WD SN520 256GB SSD |
+| Onboard NIC     | Forgot to check but its gigabit |
+| Wi-Fi card      | Intel Wireless AC 9620 |
+| Bluetooth       | Provided by Wi-Fi card (over USB?) |
+
+## NAS Specs
+| Part Type       | Part Name |
+| --------------- | --------- |
+| System Name     | Blossom Vault |
+| Model Identifier| MacPro4,1 
+| Motherboard     | Apple Mac Pro Early 2009 Motherboard |
+| CPU             | 2x Intel Xeon E5520 |
+| iGPU            | None |
+| dGPU            | NVIDIA GeForce GT 120 512MB |
+| RAM             | 8GB (2x4GB) 1333MHz ECC DDR3 UDIMM (SK Hynix) |
+| SSD 1 (OpenMediaVault) | ADATA Ultimate SU750 256GB |
+| HDD 1 (NAS storage drive) | WD Red Plus 4TB |
+| Onboard NIC     | 2x Intel 82574L Gigabit |
+| Wi-Fi card      | Qualcomm Atheros AR9285 |
+| Bluetooth       | BCM2046 Bluetooth 2.0+EDR |
 
 ## Feedback
 Got feedback about this page?\
