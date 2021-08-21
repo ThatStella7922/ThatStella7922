@@ -46,9 +46,9 @@ Alternatively, you can [email me](mailto:ThatsNiceGuy.tech@gmail.com) if you rea
 ## Daily drivers
 | Device Type | Device Name | Device Specs |
 | ----------- | ----------- | ------------ |
-| Phone       | iPhone X    | 64GB White - iOS 14.3RC1 jailbroken with [Taurine](https://taurine.app) |
+| Phone       | iPhone 11 Pro Max | 256GB Space Gray - iOS 15 DB6 |
 | Tablet      | iPad Pro 11" 2020 | Wi-Fi 256GB Silver - iOS 14.3RC1 jailbroken with [Taurine](https://taurine.app) |
-| Smartwatch  | None | RIP my pieced together Series 4 Apple Watch |
+| Smartwatch  | Apple Watch Series 4 | 44mm Gold Aluminum GPS+Cellular |
 | Headphones  | AirPods Pro | idk they're white? |
 | Desktop PC  | Sakura Blossom | [PC Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#pc-specs) (lol I made a link even though it's right there below this) |
 | Laptop PC   | Lenowo ThinkPad E590  | [Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#laptop-specs) |
