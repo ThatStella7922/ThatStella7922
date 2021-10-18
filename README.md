@@ -30,7 +30,7 @@ Yae Sakura is best waifu
 ## Daily drivers
 | Device Type | Device Name | Device Specs |
 | ----------- | ----------- | ------------ |
-| Phone       | iPhone 13 Pro Max | 256GB Silver - iOS 15.1 PB2 |
+| Phone       | iPhone 13 Pro Max | 256GB Silver - iOS 15.0.1 |
 | Tablet      | iPad Pro 11" 2020 | Wi-Fi 256GB Silver - iOS 14.3RC1 jailbroken with [Taurine](https://taurine.app) |
 | Smartwatch  | Apple Watch Series 4 | 44mm Gold Aluminum GPS+Cellular |
 | Headphones  | AirPods Pro | idk they're white? |
