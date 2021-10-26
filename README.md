@@ -88,14 +88,14 @@ Yae Sakura is best waifu
 | --------------- | --------- |
 | System Name     | MacBook Pro 14" 2021 |
 | Motherboard     | MacBook Pro 14" Motherboard |
-| CPU             | Apple M1 Max (10-core) |
+| CPU             | Apple M1 Max 10-core (8p + 2e) |
 | iGPU            | Apple M1 Max 32-core GPU |
 | dGPU            | None |
-| RAM             | 32GB RAM (LPDDR5?) |
-| SSD 1 | Apple 1TB Internal SSD |
+| RAM             | 32GB RAM (LPDDR5? Idk) |
+| SSD 1 | Apple 1TB Internal NVMe SSD (interface unknown) |
 | Onboard NIC     | None |
-| Wi-Fi card      | Unknown/Murata-based |
-| Bluetooth       | Unknown |
+| Wi-Fi card      | Unknown (Murata-based?) |
+| Bluetooth       | Unknown (Transport unknown)|
 
 ## NAS Specs
 | Part Type       | Part Name |
