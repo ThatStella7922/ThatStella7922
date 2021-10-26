@@ -35,7 +35,7 @@ Yae Sakura is best waifu
 | Smartwatch  | Apple Watch Series 4 | 44mm Gold Aluminum GPS+Cellular |
 | Headphones  | AirPods Pro | idk they're white? |
 | Desktop PC  | Sakura Blossom | [PC Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#pc-specs) (lol I made a link even though it's right there below this) |
-| Laptop PC   | Lenowo ThinkPad E590  | [Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#laptop-specs) |
+| Laptop PC   | Lenowo ThinkPad E590 | [Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#laptop-specs) |
 | Home NAS    | Blossom Vault | [NAS Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#nas-specs) |
 
 ## Other devices (spares and testing)
@@ -86,17 +86,16 @@ Yae Sakura is best waifu
 ## Laptop Specs
 | Part Type       | Part Name |
 | --------------- | --------- |
-| System Name     | Lenowo (Lenovo) ThinkPad E590 |
-| Motherboard     | ThinkPad E590 Motherboard |
-| CPU             | Intel Core i5-8265U |
-| iGPU            | Intel UHD Graphics 620 |
+| System Name     | MacBook Pro 14" 2021 |
+| Motherboard     | MacBook Pro 14" Motherboard |
+| CPU             | Apple M1 Max (10-core) |
+| iGPU            | Apple M1 Max 32-core GPU |
 | dGPU            | None |
-| RAM             | 16GB Dual-channel 2400MHz DDR4 (Samsung) |
-| SSD 1 (Windows) | WD SN520 256GB SSD |
-| SSD 2 (macOS)   | PNY CS900 240GB SSD |
-| Onboard NIC     | Forgot to check but its gigabit |
-| Wi-Fi card      | Intel Wireless AC 9620 |
-| Bluetooth       | Provided by Wi-Fi card (over USB?) |
+| RAM             | 32GB RAM (LPDDR5?) |
+| SSD 1 | Apple 1TB Internal SSD |
+| Onboard NIC     | None |
+| Wi-Fi card      | Unknown/Murata-based |
+| Bluetooth       | Unknown |
 
 ## NAS Specs
 | Part Type       | Part Name |
