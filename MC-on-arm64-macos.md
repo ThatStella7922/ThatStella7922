@@ -23,8 +23,6 @@ In your Terminal, enter `touch .zshrc`.
 
 ### Part 3
 open Finder and click Go -> Home from the menu bar. Now press ⌘⇧. (Command + Shift + .) to show hidden files. Open the file called `.zshrc` and put in the following:
-<img width="766" alt="image" src="https://user-images.githubusercontent.com/10524728/141719458-0a6f6076-bf7a-4c52-8c6d-6969f7be456d.png">
-
 ```JAVA_HOME="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home"```
 
 It should look like this:
