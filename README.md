@@ -31,23 +31,23 @@ Yae Sakura is best waifu
 | Device Type | Device Name | Device Specs |
 | ----------- | ----------- | ------------ |
 | Phone       | iPhone 13 Pro Max | 256GB Silver - iOS 15.0.1 |
-| Tablet      | iPad Pro 11" 2020 | Wi-Fi 256GB Silver - iOS 14.3RC1 jailbroken with [Taurine](https://taurine.app) |
-| Smartwatch  | Apple Watch Series 4 | 44mm Gold Aluminum GPS+Cellular |
+| Tablet      | iPad Pro 11" 2020 | Wi-Fi 256GB Silver - iOS 15.1 |
+| Smartwatch  | Apple Watch Series 6 | 44mm Space Gray GPS |
 | Headphones  | AirPods Pro | idk they're white? |
 | Desktop PC  | Sakura Blossom | [PC Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#pc-specs) (lol I made a link even though it's right there below this) |
-| Laptop PC   | Lenowo ThinkPad E590 | [Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#laptop-specs) |
+| Laptop PC   | MacBook Pro 16" (2021) | [Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#laptop-specs) |
 | Home NAS    | Blossom Vault | [NAS Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#nas-specs) |
 
 ## Other devices (spares and testing)
 | Device Name       | Device Specs | Info |
 | ----------------- | ------------ | ---- |
 | LG V30+ US998     | SD835 / 4GB RAM / 128GB NAND | Running DerpFest 10, is used for testing |
-| OnePlus 6T A6010  | SD845 / 8GB RAM / 128GB NAND | Running Pixel Experience and Windows 10 ARM |
+| OnePlus 6T A6010  | SD845 / 8GB RAM / 128GB NAND | Running NIGGAS and Windows 10 ARM |
 | iPhone SE 1st gen | A9 / 2GB RAM / 32GB NAND | Spare phone |
 | iPhone X          | A11 / 3GB RAM / 256GB NAND | Recording phone |
 | iPhone 5          | A6 / 1GB RAM / 32GB NAND | idk I just have it |
 | iPhone 3G         | 1176JZ(F)-S / 128MB RAM / 8GB NAND | again idk, I just have it |
-| Dell G7 7588      | i7-8750H / 1060 Max-Q / 8GB RAM / 256GB SSD | For sale - [contact me](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#contact) |
+| HP EliteBook 2540p | i7-640LM / 8GB RAM / 256GB SSD | Tripleboot Windows XP,7 and 8.1 |
 
 ## PC Specs
 | Part Type       | Part Name |
@@ -86,13 +86,13 @@ Yae Sakura is best waifu
 ## Laptop Specs
 | Part Type       | Part Name |
 | --------------- | --------- |
-| System Name     | MacBook Pro 14" 2021 |
-| Motherboard     | MacBook Pro 14" Motherboard |
+| System Name     | MacBook Pro 16" 2021 |
+| Motherboard     | MacBook Pro 16" Motherboard |
 | CPU             | Apple M1 Max 10-core (8p + 2e) |
 | iGPU            | Apple M1 Max 32-core GPU |
 | dGPU            | None |
-| RAM             | 32GB RAM (LPDDR5? Idk) |
-| SSD 1 | Apple 1TB Internal NVMe SSD (interface unknown) |
+| RAM             | 32GB RAM LPDDR5 @ 6400 MHz, 512-bit  |
+| SSD 1 | Apple 2TB Internal NVMe SSD |
 | Onboard NIC     | None |
 | Wi-Fi card      | Unknown (Murata-based?) |
 | Bluetooth       | Unknown (Transport unknown)|
