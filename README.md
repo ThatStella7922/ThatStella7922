@@ -42,7 +42,7 @@ Yae Sakura is best waifu
 | Device Name       | Device Specs | Info |
 | ----------------- | ------------ | ---- |
 | LG V30+ US998     | SD835 / 4GB RAM / 128GB NAND | Running DerpFest 10, is used for testing |
-| OnePlus 6T A6010  | SD845 / 8GB RAM / 128GB NAND | Running NIGGAS and Windows 10 ARM |
+| OnePlus 6T A6010  | SD845 / 8GB RAM / 128GB NAND | Running OxygenOS and Windows 10 ARM |
 | iPhone SE 1st gen | A9 / 2GB RAM / 32GB NAND | Spare phone |
 | iPhone X          | A11 / 3GB RAM / 256GB NAND | Recording phone |
 | iPhone 5          | A6 / 1GB RAM / 32GB NAND | idk I just have it |
