@@ -56,19 +56,18 @@ Yae Sakura is best waifu
 | Part Type       | Part Name |
 | --------------- | --------- |
 | System Name     | Sakura Blossom |
-| Motherboard     | ASUS ROG STRIX B550-F GAMING |
-| CPU             | AMD Ryzen 5 3600 @ 3.9GHz |
-| CPU Cooler      | Noctua NH-U12S chromax.black |
+| Motherboard     | GIGABYTE Z690 AORUS ELITE AX DDR4 |
+| CPU             | Intel Core i5-12600K |
+| CPU Cooler      | Noctua NH-D15 |
+| iGPU            | Intel UHD Graphics 770 |
 | GPU             | Asus ROG Strix GeForce RTX 3080 OC 10GB |
 | GPU Cooler      | Stock Strix 30series cooler |
-| GPU 2           | MSI Twin Frozr GTX 770 GAMING 2GB OC |
-| GPU 2 Cooler    | No fan - passive heatsink only |
-| RAM             | 32GB (4x8GB) 3600MHz C18 Corsair Vengeance RGB Pro SL |
+| RAM             | 16GB (2x8GB) 3600MHz C18 Corsair Vengeance RGB Pro SL |
 | SSD 1 (Windows) | Sabrent Rocket 2TB NVMe |
 | SSD 2 (macOS)   | Samsung 960 EVO 512GB NVMe |
 | Hard drive      | None :) |
-| Onboard NIC     | Intel I225-V 2.5GbE |
-| Wi-Fi card      | Apple AirPort Broadcom BCM943602CS |
+| Onboard NIC     | Realtek ""GAMING""" 2.5GBe (10EC:8125) |
+| Wi-Fi card      | Intel Wi-Fi 6 AX201 160MHz |
 | Bluetooth       | Provided through Wi-Fi card over USB |
 | Case            | Phanteks Eclipse P500A |
 
