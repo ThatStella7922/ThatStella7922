@@ -33,11 +33,12 @@ Yae Sakura is best waifu
 | Device Type | Device Name | Device Specs |
 | ----------- | ----------- | ------------ |
 | Phone       | iPhone 13 Pro Max | 256GB Silver - iOS 15.0.1 |
-| Tablet      | iPad Pro 12.9" 2018 | Wi-Fi + Cellular 256GB Space Gray - iOS 15.1 |
+| Tablet      | iPad Pro 12.9" 2021, M1 | Wi-Fi + Cellular 256GB Space Gray - iOS 15.1 |
 | Smartwatch  | Apple Watch Series 6 | 44mm Space Gray GPS |
 | Headphones  | AirPods Max | Space Gray |
-| Desktop PC  | Sakura Blossom | [PC Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#pc-specs) (lol I made a link even though it's right there below this) |
-| Laptop PC   | MacBook Pro 16" (2021) | [Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#laptop-specs) |
+| Desktop PC  | Sakura Blossom | [PC Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#pc-specs) |
+| Laptop | Stella | [Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#laptop-specs) |
+| Secondary Laptop | Ursa | [Secondary Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#secondary-laptop-specs) |
 | Home NAS    | Blossom Vault | [NAS Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#nas-specs) |
 
 ## Other devices (spares and testing)
@@ -49,55 +50,71 @@ Yae Sakura is best waifu
 | iPhone X          | A11 / 3GB RAM / 256GB NAND | Recording phone |
 | iPhone 5          | A6 / 1GB RAM / 32GB NAND | idk I just have it |
 | iPhone 3G         | 1176JZ(F)-S / 128MB RAM / 8GB NAND | again idk, I just have it |
-| HP EliteBook 2540p | i7-640LM / 8GB RAM / 256GB SSD | Tripleboot Windows XP and 8.1 and Lubuntu |
+| HP EliteBook 2540p | i7-640LM / 8GB RAM / 256GB SSD | Tripleboot Windows XP, 8.1EIP and Lubuntu |
 | iPad Pro 12.9" 2017 | A10X / 4GB RAM / 512GB NAND | Wi-Fi Gold - iOS 14.6 JB'd w/[checkra1n](https://checkra.in) |
 
 ## PC Specs
 | Part Type       | Part Name |
 | --------------- | --------- |
 | System Name     | Sakura Blossom |
-| Motherboard     | GIGABYTE Z690 AORUS ELITE AX DDR4 |
+| Motherboard     | ASUS ROG STRIX Z690-I |
 | CPU             | Intel Core i5-12600K |
-| CPU Cooler      | Noctua NH-D15 |
+| CPU Mounting Solution | Thermalright LGA1700-BCF |
+| CPU Cooler      | Corsair H100i RGB PRO XT (240mm) |
 | iGPU            | Intel UHD Graphics 770 |
-| GPU             | Asus ROG Strix GeForce RTX 3080 OC 10GB |
+| GPU             | Asus ROG Strix GeForce RTX 3090 OC 24GB |
 | GPU Cooler      | Stock Strix 30series cooler |
-| RAM             | 16GB (2x8GB) 3600MHz C18 Corsair Vengeance RGB Pro SL |
-| SSD 1 (Windows) | Sabrent Rocket 2TB NVMe |
-| SSD 2 (macOS)   | Samsung 960 EVO 512GB NVMe |
+| RAM             | 32GB (2x16GB) 5200MHz C38 ADATA XPG Lancer |
+| SSD 1 (Windows) | WD Black SN850 1TB PCIe Gen4x4 NVMe |
+| SSD 2 (Games+Mass)   | Sabrent Rocket 2TB PCIe Gen3x4 NVMe |
 | Hard drive      | None :) |
-| Onboard NIC     | Realtek ""GAMING""" 2.5GBe (10EC:8125) |
-| Wi-Fi card      | Intel Wi-Fi 6 AX201 160MHz |
+| Onboard NIC     | Intel 2.5GBe (likely I225-V) |
+| Wi-Fi card      | Intel Wi-Fi 6 something I forgor |
 | Bluetooth       | Provided through Wi-Fi card over USB |
-| Case            | Phanteks Eclipse P500A |
+| Case            | LIAN LI x DANCASE A4-H2O Mini ITX |
+| Notable features| Dual Thunderbolt 4 ports (shared controller) | 
 
 ## PC Setup Specs
 | Peripheral Type    | Part Name |
 | ------------------ | --------- |
-| Display 1 (Primary)| LG 27GN950 4K 27" 144hz |
-| Display 2 (Secondary) | Sceptre C24 1080p 24" 144hz |
-| Display 3 (Tertiary) | Currently, none |
-| Keyboard           | Razer Blackwidow Tournament Edition V2 |
+| Display 1 (Primary)| LG C1 OLED 48" 4k 120hz |
+| Display 2 (Secondary) | None |
+| Display 3 (Tertiary) | None |
+| Keyboard           | DROP CTRL, Cherry MX Browns |
 | Mouse              | Razer DeathAdder v2 Pro Wireless |
 | Trackpad           | Apple Magic Trackpad 2 |
-| Mousepad           | Razer Sphex V2 |
+| Mousepad           | None |
 | Pen input          | My iPad Pro + Apple Pencil |
-| Speakers           | Some old polk audio speakers from 2014 connected with a [KAA10021](https://www.jerryselectronics.com/diykits/kaa10021/kaa10021.htm) |
+| Speakers           | Some old polk audio speakers connected to a [KAA10021](https://www.jerryselectronics.com/diykits/kaa10021/kaa10021.htm) |
 | Headset/Headphones | KZ ZS10 Pro |
 
 ## Laptop Specs
 | Part Type       | Part Name |
 | --------------- | --------- |
-| System Name     | MacBook Pro 16" 2021 |
+| System Name     | Stella |
 | Motherboard     | MacBook Pro 16" Motherboard |
 | CPU             | Apple M1 Max 10-core (8p + 2e) |
 | iGPU            | Apple M1 Max 32-core GPU |
 | dGPU            | None |
 | RAM             | 32GB RAM LPDDR5 @ 6400 MHz, 512-bit  |
 | SSD 1 | APPLE SSD AP2048R (NVMe) |
-| Onboard NIC     | None |
-| Wi-Fi card      | Unknown (Broadcom?) |
-| Bluetooth       | Unknown |
+| Ethernet NIC    | None |
+| Wi-Fi card      | Broadcom something|
+| Bluetooth       | yes |
+
+## Secondary Laptop Specs
+| Part Type       | Part Name |
+| --------------- | --------- |
+| System Name     | Ursa |
+| Motherboard     | MacBook Pro 13" A1708 Motherboard |
+| CPU             | Intel Core i5-7360U 2-core |
+| iGPU            | Intel Iris Plus something |
+| dGPU            | None |
+| RAM             | 8GB RAM LPDDR3 |
+| SSD 1 | Sabrent Rocket nano 512GB |
+| Ethernet NIC    | None |
+| Wi-Fi card      | some broadcom |
+| Bluetooth       | yes |
 
 ## NAS Specs
 | Part Type       | Part Name |
@@ -110,10 +127,10 @@ Yae Sakura is best waifu
 | RAM             | 8GB (2x4GB) DDR3 DIMM |
 | SSD 1 (OpenMediaVault) | ADATA Ultimate SU750 256GB |
 | HDD 1 (NAS storage drive) | WD Red Plus 4TB |
-| Onboard NIC     | Unknown but is 1GbE |
+| Ethernet NIC    | Unknown but is 1GbE |
 | Wi-Fi card      | None |
 | Bluetooth       | None |
 
 ## Feedback
 Got feedback about this page?\
-[Contact me](https://main.thatsniceguy.com/socials-contact), preferably on Twitter as I will reply there faster. You can also DM me on Discord, I'm in a few big public servers like the Linus Tech Tips server, the Honkai Impact and Genshin servers, the r/Hackintosh Paradise server, some RTX 3080 stock checker discord servers, and a few more.
+[Contact me](https://main.thatsniceguy.com/socials-contact), preferably on Twitter or join the ThatsNiceGuy Community Discord Server and ping/DM me. I'm also in the r/Hackintosh Paradise server.
