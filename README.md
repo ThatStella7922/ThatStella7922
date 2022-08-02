@@ -68,8 +68,8 @@ Yae Sakura is best waifu
 | SSD 1 (Windows) | WD Black SN850 1TB PCIe Gen4x4 NVMe |
 | SSD 2 (Games+Mass)   | Sabrent Rocket 2TB PCIe Gen3x4 NVMe |
 | Hard drive      | None :) |
-| Onboard NIC     | Intel 2.5GBe (likely I225-V) |
-| Wi-Fi card      | Intel Wi-Fi 6 something I forgor |
+| Onboard NIC     | Intel I225-V 2.5 GbE Network Adapter |
+| Wi-Fi card      | Intel Wi-Fi 6 AX210 160MHz |
 | Bluetooth       | Provided through Wi-Fi card over USB |
 | Case            | LIAN LI x DANCASE A4-H2O Mini ITX |
 | Notable features| Dual Thunderbolt 4 ports (shared controller) | 
