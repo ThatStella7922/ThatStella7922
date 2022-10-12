@@ -3,20 +3,15 @@
 ## Quick Links
 - [Website](https://thatsniceguy.com)
 - [Blossom Repo](https://repo.thatsniceguy.com)
-- [Minecraft Server](http://minecraft.thatsniceguy.com)
 - [File Store](https://files.thatsniceguy.com)
 - [make_and_flash_logo](https://github.com/ThatsNiceGuy/make_and_flash_logo)
 
 ## Intro
-My name is Ismael and on the Internet I like to go by ThatsNiceGuy.
+My name is Stella and on the Internet I often went by ThatsNiceGuy.
 
 I like to mess with software, hardware and sometimes audio equipment.
 
-Big Apple fan but not a blind "sheep" as I like many other devices and platforms, one good example being my experimentation phone which is a OnePlus 6T (global variant) that dualboots LineageOS 17.1 (android 10) and Windows 10 ARM with [an experimental UEFI](https://github.com/edk2-porting/edk2-sdm845).
-
-I also have some knowledge of Unix-like systems and will know how to get around on pretty much any OS (but just don't make me use i3)
-
-Yae Sakura is best waifu
+I also have some knowledge of Unix-like systems and will know how to get around on pretty much any computer (i hope lol)
 
 ## Hobbies
 - Playing Arcaea, osu!, or some similar game
@@ -32,14 +27,14 @@ Yae Sakura is best waifu
 ## Daily drivers
 | Device Type | Device Name | Device Specs |
 | ----------- | ----------- | ------------ |
-| Phone       | iPhone 13 Pro Max | 256GB Silver - iOS 15.0.1 |
+| Phone       | Galaxy Z Fold 4 | 512GB Burgundy - One UI 4.1.1 - Android 12L |
 | Tablet      | iPad Pro 12.9" 2021, M1 | Wi-Fi + Cellular 256GB Space Gray - iOS 15.1 |
-| Smartwatch  | Apple Watch Series 6 | 44mm Space Gray GPS |
+| Smartwatch  | None |  |
 | Headphones  | AirPods Max | Space Gray |
 | Desktop PC  | Sakura Blossom | [PC Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#pc-specs) |
-| Laptop | Stella | [Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#laptop-specs) |
+| Laptop | Moonlight | [Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#laptop-specs) |
 | Secondary Laptop | Ursa | [Secondary Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#secondary-laptop-specs) |
-| Home NAS    | Blossom Vault | [NAS Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#nas-specs) |
+| Home NAS    | Blossom Server | [NAS Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#nas-specs) |
 
 ## Other devices (spares and testing)
 | Device Name       | Device Specs | Info |
@@ -119,17 +114,20 @@ Yae Sakura is best waifu
 ## NAS Specs
 | Part Type       | Part Name |
 | --------------- | --------- |
-| System Name     | Blossom Vault |
-| Motherboard     | TBA |
-| CPU             | Intel Core i5-2500S |
-| iGPU            | TBA |
-| dGPU            | None|
-| RAM             | 8GB (2x4GB) DDR3 DIMM |
-| SSD 1 (OpenMediaVault) | ADATA Ultimate SU750 256GB |
-| HDD 1 (NAS storage drive) | WD Red Plus 4TB |
+| System Name     | Blossom Server |
+| Motherboard     | GIGABYTE X570 AORUS ULTRA |
+| CPU             | Ryzen 5 3600 |
+| iGPU            | None |
+| dGPU            | NVIDIA GeForce GT 1030|
+| RAM             | 32GB 3200MHz C16 T-Force Vulcan Z DDR4 (2x16GB) |
+| USB Drive 1     | Micro Center 16GB USB 2.0 drive running UNRAID |
+| SSD 1 (Cache drive) | Samsung SSD 960 EVO 512GB |
+| HDD 1 (NAS storage drive) | WD Red Plus 8TB |
+| HDD 2 (NAS storage drive) | WD Red Plus 8TB |
 | Ethernet NIC    | Unknown but is 1GbE |
 | Wi-Fi card      | None |
 | Bluetooth       | None |
+| Case            | Fractal Design Define 7 |
 
 ## Feedback
 Got feedback about this page?\
