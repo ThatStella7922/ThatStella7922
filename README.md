@@ -73,7 +73,7 @@ On the Internet I often went by ThatsNiceGuy, so you'll probably see a lot of th
 ## Laptop Specs
 | Part Type       | Part Name |
 | --------------- | --------- |
-| System Name     | Stella |
+| System Name     | Moonlight |
 | Motherboard     | MacBook Pro 16" Motherboard |
 | CPU             | Apple M1 Max 10-core (8p + 2e) |
 | iGPU            | Apple M1 Max 32-core GPU |
