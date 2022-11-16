@@ -1,17 +1,7 @@
-# Hi there 👋
+# Hi there
+i'm Stella, one of the nerds ever on the internet. i like to think that i know stuff about computers and electronics
 
-## Quick Links
-- [Website](https://thatsniceguy.com)
-- [Blossom Repo](https://repo.thatsniceguy.com)
-- [File Store](https://files.thatsniceguy.com)
-- [make_and_flash_logo](https://github.com/ThatsNiceGuy/make_and_flash_logo)
-
-## Intro
-My name is Stella and on the Internet I often went by ThatsNiceGuy.
-
-I like to mess with software, hardware and sometimes audio equipment.
-
-I also have some knowledge of Unix-like systems and will know how to get around on pretty much any computer (i hope lol)
+On the Internet I often went by ThatsNiceGuy, so you'll probably see a lot of that name on my sites, etc.
 
 ## Hobbies
 - Playing Arcaea, osu!, or some similar game
@@ -28,22 +18,19 @@ I also have some knowledge of Unix-like systems and will know how to get around 
 | Device Type | Device Name | Device Specs |
 | ----------- | ----------- | ------------ |
 | Phone       | Galaxy Z Fold 4 | 512GB Burgundy - One UI 4.1.1 - Android 12L |
-| Tablet      | iPad Pro 12.9" 2021, M1 | Wi-Fi + Cellular 256GB Space Gray - iOS 15.1 |
+| Tablet      | iPad Pro 12.9" 2021, M1 | Wi-Fi + Cellular 256GB Space Gray - iOS 15.6.1 |
 | Smartwatch  | None |  |
 | Headphones  | AirPods Max | Space Gray |
 | Desktop PC  | Sakura Blossom | [PC Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#pc-specs) |
 | Laptop | Moonlight | [Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#laptop-specs) |
-| Secondary Laptop | Ursa | [Secondary Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#secondary-laptop-specs) |
+| Secondary Laptop | Pleiades | [Secondary Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#secondary-laptop-specs) |
 | Home NAS    | Blossom Server | [NAS Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#nas-specs) |
 
 ## Other devices (spares and testing)
 | Device Name       | Device Specs | Info |
 | ----------------- | ------------ | ---- |
-| LG V30+ US998     | SD835 / 4GB RAM / 128GB NAND | Running DerpFest 10, is used for testing |
 | OnePlus 6T A6010  | SD845 / 8GB RAM / 128GB NAND | Running LineageOS and Windows 10 ARM |
-| iPhone SE 1st gen | A9 / 2GB RAM / 32GB NAND | Spare phone |
 | iPhone X          | A11 / 3GB RAM / 256GB NAND | Recording phone |
-| iPhone 5          | A6 / 1GB RAM / 32GB NAND | idk I just have it |
 | iPhone 3G         | 1176JZ(F)-S / 128MB RAM / 8GB NAND | again idk, I just have it |
 | HP EliteBook 2540p | i7-640LM / 8GB RAM / 256GB SSD | Tripleboot Windows XP, 8.1EIP and Lubuntu |
 | iPad Pro 12.9" 2017 | A10X / 4GB RAM / 512GB NAND | Wi-Fi Gold - iOS 14.6 JB'd w/[checkra1n](https://checkra.in) |
@@ -100,15 +87,15 @@ I also have some knowledge of Unix-like systems and will know how to get around 
 ## Secondary Laptop Specs
 | Part Type       | Part Name |
 | --------------- | --------- |
-| System Name     | Ursa |
-| Motherboard     | MacBook Pro 13" A1708 Motherboard |
-| CPU             | Intel Core i5-7360U 2-core |
-| iGPU            | Intel Iris Plus something |
+| System Name     | Pleiades |
+| Motherboard     | idk |
+| CPU             | Intel Core i7-640LM |
+| iGPU            | Intel HD Graphics |
 | dGPU            | None |
-| RAM             | 8GB RAM LPDDR3 |
-| SSD 1 | Sabrent Rocket nano 512GB |
-| Ethernet NIC    | None |
-| Wi-Fi card      | some broadcom |
+| RAM             | 8GB DDR3 |
+| SSD 1 | Kingston A400 256GB |
+| Ethernet NIC    | idk but its gigabit |
+| Wi-Fi card      | Intel Centrino Advanced-N 6200 AGN |
 | Bluetooth       | yes |
 
 ## NAS Specs
