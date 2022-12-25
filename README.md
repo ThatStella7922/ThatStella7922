@@ -1,5 +1,4 @@
-# Hi there
-i'm Stella, one of the nerds ever on the internet. i like to think that i know stuff about computers and electronics
+hi I'm Stella! - a nerd living her life and trying to help others along the way.
 
 On the Internet I often went by ThatsNiceGuy, so you'll probably see a lot of that name on my sites, etc.
 
@@ -8,7 +7,7 @@ On the Internet I often went by ThatsNiceGuy, so you'll probably see a lot of th
 - PC gaming
 - Messing with hardware
 - Chatting on Discord
-- Creating bad content on YouTube
+- Creating bad content
 - Writing this README file
 
 ## Contact
@@ -17,21 +16,22 @@ On the Internet I often went by ThatsNiceGuy, so you'll probably see a lot of th
 ## Daily drivers
 | Device Type | Device Name | Device Specs |
 | ----------- | ----------- | ------------ |
-| Phone       | Galaxy Z Fold 4 | 512GB Burgundy - One UI 4.1.1 - Android 12L |
+| Phone       | Galaxy Z Fold 4 | 512GB Burgundy - One UI 5 (Android 13) |
 | Tablet      | iPad Pro 12.9" 2021, M1 | Wi-Fi + Cellular 256GB Space Gray - iOS 15.6.1 |
 | Smartwatch  | None |  |
 | Headphones  | AirPods Max | Space Gray |
-| Desktop PC  | Sakura Blossom | [PC Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#pc-specs) |
-| Laptop | Moonlight | [Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#laptop-specs) |
-| Secondary Laptop | Pleiades | [Secondary Laptop Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#secondary-laptop-specs) |
-| Home NAS    | Blossom Server | [NAS Specs](https://github.com/ThatsNiceGuy/ThatsNiceGuy/blob/master/README.md#nas-specs) |
+| Desktop PC  | Sakura Blossom | [PC Specs](#pc-specs) |
+| Laptop | Moonlight | [Laptop Specs](#laptop-specs) |
+| Secondary Laptop | Pleiades | [Secondary Laptop Specs](#secondary-laptop-specs) |
+| Home NAS    | Blossom Server | [NAS Specs](#nas-specs) |
 
 ## Other devices (spares and testing)
 | Device Name       | Device Specs | Info |
 | ----------------- | ------------ | ---- |
 | OnePlus 6T A6010  | SD845 / 8GB RAM / 128GB NAND | Running LineageOS and Windows 10 ARM |
-| iPhone X          | A11 / 3GB RAM / 256GB NAND | Recording phone |
-| iPhone 3G         | 1176JZ(F)-S / 128MB RAM / 8GB NAND | again idk, I just have it |
+| iPhone X          | A11 / 3GB RAM / 256GB NAND | like 3/4 of the way dead |
+| iPhone 3G         | 1176JZ(F)-S / 128MB RAM / 8GB NAND | i have it |
+| iPod Touch 4th gen | A4 / 256MB RAM / 8GB NAND | old games |
 | HP EliteBook 2540p | i7-640LM / 8GB RAM / 256GB SSD | Tripleboot Windows XP, 8.1EIP and Lubuntu |
 | iPad Pro 12.9" 2017 | A10X / 4GB RAM / 512GB NAND | Wi-Fi Gold - iOS 14.6 JB'd w/[checkra1n](https://checkra.in) |
 
@@ -118,4 +118,4 @@ On the Internet I often went by ThatsNiceGuy, so you'll probably see a lot of th
 
 ## Feedback
 Got feedback about this page?\
-[Contact me](https://main.thatsniceguy.com/socials-contact), preferably on Twitter or join the ThatsNiceGuy Community Discord Server and ping/DM me. I'm also in the r/Hackintosh Paradise server.
+[Contact me](https://main.thatsniceguy.com/socials-contact), preferably on Twitter or join the Fruitycord Discord Server and ping/DM me. I'm also in the r/Hackintosh Paradise server.
