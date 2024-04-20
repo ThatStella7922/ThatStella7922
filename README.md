@@ -4,4 +4,4 @@ Hi, I'm Stella! Welcome to my GitHub account, where you can find my programming 
 
 You may occasionally see references to the name ThatsNiceGuy in some of my older repos, that's just the name I went by before I found my true identity.
 
-Engaged to @crystall1nedev <3
+ENGAGED to (and owner of) @crystall1nedev <3
